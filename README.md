@@ -1,7 +1,6 @@
-# Video Fullscreen-website
+# Video Fullscreen Website
 How to play video at the backgroud of website
-#Developers 
+# Developers 
 Saksham Sharma <br>
-Avni Bhardwaj <br>
-Pankaj Patidar <br>
-..........................
+
+..............................................................................................................................
